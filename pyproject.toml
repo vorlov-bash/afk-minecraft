@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "afk-minecraft"
+version = "0.1.0"
+description = ""
+authors = ["Volodya Orlov <volodka.orlov@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pynput = "^1.7.6"
+tqdm = "^4.62.3"
+pywin32 = "^303"
+pytesseract = "^0.3.8"
+Pillow = "^9.0.0"
+opencv-python = "^4.5.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
