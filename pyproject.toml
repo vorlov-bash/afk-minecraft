@@ -9,9 +9,7 @@ python = "^3.8"
 pynput = "^1.7.6"
 tqdm = "^4.62.3"
 pywin32 = "^303"
-pytesseract = "^0.3.8"
-Pillow = "^9.0.0"
-opencv-python = "^4.5.5"
+
 
 [tool.poetry.dev-dependencies]
 
